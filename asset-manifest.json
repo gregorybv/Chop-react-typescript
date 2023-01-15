@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chop-react-typescript/static/css/main.1ebcc58c.css",
+    "main.js": "/Chop-react-typescript/static/js/main.fffd411e.js",
+    "index.html": "/Chop-react-typescript/index.html",
+    "main.1ebcc58c.css.map": "/Chop-react-typescript/static/css/main.1ebcc58c.css.map",
+    "main.fffd411e.js.map": "/Chop-react-typescript/static/js/main.fffd411e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebcc58c.css",
+    "static/js/main.fffd411e.js"
+  ]
+}
