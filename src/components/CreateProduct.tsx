@@ -14,7 +14,6 @@ const productData: IProduct = {
     count: 10
   }
 }
-
 interface CreateProductProps {
   onCreate: (product: IProduct) => void
 }
